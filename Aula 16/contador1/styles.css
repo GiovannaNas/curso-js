@@ -1,0 +1,37 @@
+body {
+    background:  #af4c99;
+    font: normal 15pt Arial, sans-serif;
+}
+
+    header {
+        color: antiquewhite;
+        text-align: center;
+    }
+    h1 {
+        color: antiquewhite;
+    }
+    
+    section {
+        background:  antiquewhite;
+        border-radius: 15px;
+        padding: 15px;
+        width: 500px;
+        margin: auto;
+        box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.363);
+        
+    }
+    
+footer {
+        color:  antiquewhite;
+        text-align: center;
+        font-style: italic;
+    }
+
+    button {
+        padding: 10px 20px;
+        border: none;
+        background-color: #af4c99;
+        color: antiquewhite;
+        border-radius: 10px;
+        cursor: pointer;
+    }
